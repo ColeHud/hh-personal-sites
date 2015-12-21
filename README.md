@@ -47,6 +47,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
 - Colin Mcillece http://cmacca.github.io
+- Cole Hudson http://colehudson.net
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - David BasedMathematician Coven http://davidcoven.me
@@ -273,6 +274,7 @@ Hackathon Hackers' GitHub profiles
 - Chris Lee https://github.com/chrispmlee
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
+- Cole Hudson http://github.com/ColeHud
 - Collin Hartigan https://github.com/cissovereign
 - Colton Anglin https://github.com/colton
 - Conrad Kramer https://github.com/conradev
